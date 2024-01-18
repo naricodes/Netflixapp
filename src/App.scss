@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Ubuntu',sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #141414;
+}
+
+*, ::before, ::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+button {
+  background-color: none;
+  border: none;
+}
+
+.test {
+  width: 100%;
+  height: 50vh;
+}
